@@ -1,5 +1,9 @@
 # Pure HFSM
 
+[![Latest version](https://img.shields.io/crates/v/pure-hfsm.svg)](https://crates.io/crates/pure-hfsm)
+[![MIT/Apache 2.0](https://img.shields.io/badge/license-MIT%2FApache-blue.svg)](./LICENSE)
+[![Documentation](https://docs.rs/pure-hfsm/badge.svg)](https://docs.rs/pure-hfsm)
+
 A finite state machine library with a clear separation between the machine
 definition and its changing state.
 
