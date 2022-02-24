@@ -55,16 +55,4 @@ LICENSE file for details.
 
 ## Additional non binding conditions
 
-If you use this library in a commercial product that earns more than 1 million
-of revenue in equivalent January 2021 US dollar, you will do one of the following:
-* Send me (Nicola Papale) a cake
-* Send me a post card thanking me, with the signature of your dev team or at
-  least the lead developers
-* Have contributed significantly to this project ("significantly" being defined
-  at your leisure, as long as you are honest about it)
-* Feel shame and assume full moral responsibility of being a twat, boohoo
-
-Not doing one of the first three items, it will always be assumed that the terms
-are complied-with according to the last item. Moral responsibility does not
-imply any other obligation than feeling shame. Most notably, no financial or
-legal obligations are implied by this.
+Please feel free to send me a thanks message if you enjoy using this crate :)
